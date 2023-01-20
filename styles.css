@@ -1,2 +1,46 @@
 
 /* Your CSS Code here. */
+header {
+                font-size: 30px;
+                text-align: center;
+                background-color: #333;
+                color: #fff;
+                padding: 20px;
+            }
+            nav {
+                display: flex;
+                justify-content: space-between;
+                padding: 10px;
+                background-color: #333;
+                color: #fff;
+            }
+            nav a {
+                color: #fff;
+                text-decoration: none;
+                padding: 10px;
+            }
+            summary {
+                font-style: italic;
+                margin: 20px;
+                padding: 10px;
+                background-color: #f8fffe;
+                border: 1px solid #333;
+            }
+            section {
+                margin: 20px;
+                padding: 10px;
+                background-color: #f8fffe;
+                border: 1px solid #333;
+            }
+            aside {
+                float: right;
+                margin: 20px;
+                padding: 10px;
+                background-color: #f8fffe;
+                border: 1px solid #333;
+            }
+            footer {
+                text-align: center;
+                background-color: #333;
+                color: #fff;
+                padding: 20px;
